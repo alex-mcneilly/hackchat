@@ -10,7 +10,7 @@ HackChat, inspired by the challenges faced during the COVID-19 pandemic in 2021,
 
 ### 🎉 Features
 
-- **Centralized Management**: 🕐 Set up your hackathon in minutes and manage everything from one place.
+- **Centralized Management**: 🕐 Set up your virtual hackathon in minutes and manage everything from one place.
 - **Real-time Communication**: 💬 Drawing inspiration from Discord, HackChat offers fluid channels for participants, mentors, and organizers to collaborate.
 - **Tailored for Hackathons**: 🛠️ Tools and features specifically designed with hackathon organizers and participants in mind.
 
