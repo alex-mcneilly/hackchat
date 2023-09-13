@@ -1,6 +1,6 @@
 # 🚀 HackChat: A Centralized Virtual Hackathon Management Platform
 
-![HackChat Logo](./path/to/your/logo.png) 
+![HackChat Logo](./assets/logo.png) 
 
 > 🎯 Empowering hackathon organizers with a Discord-style platform tailored for effortless setup and management of virtual hackathons.
 
